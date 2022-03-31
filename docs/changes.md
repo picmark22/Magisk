@@ -31,7 +31,8 @@
 ### v24.0
 
 - [General] MagiskHide is removed from Magisk
-- [General] Support Android 12
+- [General] Support Android 11
+
 - [General] Support devices that do not support 32-bit and only runs 64-bit code
 - [General] Update BusyBox to 1.34.1
 - [Zygisk] Introduce new feature: Zygisk
